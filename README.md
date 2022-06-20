@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe page made using HTML

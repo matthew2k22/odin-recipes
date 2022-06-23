@@ -1,0 +1,21 @@
+body {
+    background-color: turquoise;
+    color: #5656b3;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+img{
+    border: 5px solid #5656b3;
+}
+
+.all {
+
+    margin: auto;
+    width: 500px;
+    border: 10px solid #5656b3;
+    align-items: center;
+    justify-content: center;
+}
